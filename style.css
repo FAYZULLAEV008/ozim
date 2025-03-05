@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:aliceblue;
+}
+
+h1 {
+    color: black;
+}
+
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: beige;
+}
+
+td {
+    background-color: lightcyan;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+form {
+    width: 55%;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+input, button {
+    width: 90%;
+    margin: 5px 0;
+    padding: 8px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+label{
+    text-align: right;
+}
+p{
+    margin-right: 1000px;
+    margin-top: 10px;
+}
+div{
+    text-align: left;
+}
